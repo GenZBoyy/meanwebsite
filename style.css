@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+.container {
+
+    display: flex;
+  
+    justify-content: center;
+  
+    align-items: center;
+  
+    height: 75vh; /* Ensure the container takes up the full viewport height */
+  
+  }
+  
+  .pacifico {
+    color: white;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+  }
+  
